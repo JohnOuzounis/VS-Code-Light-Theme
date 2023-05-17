@@ -1,9 +1,13 @@
 {
-  "name": "theme-light--",
-  "displayName": "Light++",
+  "name": "theme-light-vscode",
+  "displayName": "JohnOuz-Light++",
   "description": "VS Code light theme",
   "version": "1.0.0",
   "publisher": "JohnOuz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnOuzounis/VS-Code-Light-Theme"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
