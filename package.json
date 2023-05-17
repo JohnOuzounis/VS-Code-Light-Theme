@@ -1,0 +1,22 @@
+{
+  "name": "theme-light--",
+  "displayName": "Light++",
+  "description": "VS Code light theme",
+  "version": "1.0.0",
+  "publisher": "JohnOuz",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light++",
+        "uiTheme": "vs",
+        "path": "./themes/Light++-color-theme.json"
+      }
+    ]
+  }
+}
