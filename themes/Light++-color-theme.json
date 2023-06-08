@@ -46,14 +46,14 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#5a5a5a"
 			}
 		},
 		{
 			"name": "Control",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#a105b9",
+				"foreground": "#87009ce5",
 			}
 		},
 		{
@@ -88,6 +88,14 @@
 			],
 			"settings": {
 				"foreground": "#AB6526"
+			}
+		},
+		{
+			"name": "Enums",
+			"scope": "variable.other.enummember",
+			"settings": {
+				"foreground": "#263f9bc5",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -157,7 +165,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#bc2929"
 			}
 		},
 		{
